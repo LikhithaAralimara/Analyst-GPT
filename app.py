@@ -48,7 +48,9 @@ agent_executor = create_vectorstore_agent(
     toolkit=toolkit,
     verbose=True
 )
-st.title('🦜🔗 GPT Investment Banker')
+st.subheader('LIKHITHA ARALIMARA presents')
+st.title('🦜🔗 Analyst GPT ')
+st.subheader('Harness a powerful document analysis tool that effortlessly converts PDFs into insights.')
 # Create a text input box for the user
 prompt = st.text_input('Input your prompt here')
 
