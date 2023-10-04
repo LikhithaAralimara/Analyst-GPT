@@ -36,13 +36,13 @@ To see this project in action, follow these steps:
 3. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repo-name
+    git clone https://github.com/LikhithaAralimara/Analyst-GPT.git
     ```
 
 4. **Navigate to the Project Directory:**
 
     ```bash
-    cd your-repo-name
+    cd Analyst-GPT
     ```
 
 5. **Install Dependencies:**
